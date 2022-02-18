@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestData>
+  <GenericData>
+    <TDID>1</TDID>
+    <UserName>c.raghubabu-f8ne@force.com</UserName>
+    <Password>Cigniti@123</Password>
+    <Name>Raghubabu Chenagapalli</Name>
+    <LeadStatus>New</LeadStatus>
+    <Salutation>Mr.</Salutation>
+    <Rating>Hot</Rating>
+    <Industry>Banking</Industry>
+    <LeadSource>Advertisement</LeadSource>
+    <LeadFullName>Mr. Sam Ham</LeadFullName>
+    <LeadFirstName>Sam</LeadFirstName>
+    <LeadLastName>Ham</LeadLastName>
+    <Title>Automation</Title>
+    <Email>test@test.com</Email>
+    <Phone>9568569856</Phone>
+    <Mobile>9588569856</Mobile>
+    <Company>SolarWind</Company>
+    <NoofEmployees>10</NoofEmployees>
+    <Website>www.cigniti.com</Website>
+    <Address>Madhapur</Address>
+    <LeadTaskName>Automation Meeting</LeadTaskName>
+    <AccountType>Customer</AccountType>
+    <Stage>Proposal</Stage>
+    <TypeSelection>New Business</TypeSelection>
+    <CloseDate>12/31/2020</CloseDate>
+    <OpportunityName>Automation Selenium C#</OpportunityName>
+    <AccountPhone>+1 972-756-0622</AccountPhone>
+  </GenericData>
+</TestData>

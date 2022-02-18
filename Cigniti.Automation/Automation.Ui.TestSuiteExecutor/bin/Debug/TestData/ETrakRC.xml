@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestData>
+  <GenericData>
+    <TDID>1</TDID>
+    <UserName>anil.amiereddy@cigniti.com</UserName>
+    <Password>Cigniti#123</Password>
+    <Name>Anil amiereddy</Name>
+
+    <CustomerFirstName>TestTest</CustomerFirstName>
+    <CustomerLastName>RegTest</CustomerLastName>
+    <CustomerBirthDate>09/24/2000</CustomerBirthDate>
+    <SalePrice>25000</SalePrice>
+    <MSRP>30000</MSRP>    
+    <VINS>
+      <MBCRatingVIN>WDD3G4FBXKW011375</MBCRatingVIN>
+      <MBCAutoRatingVIN>WMEFJ9BA9HK123456</MBCAutoRatingVIN>
+      <USWCVIN>JN8AZ2NE5K9226788</USWCVIN>
+      <CNAHDVIN>1HD1BFV1XHB030799</CNAHDVIN>
+    </VINS>
+    <SalesPerson>Test</SalesPerson>
+    <BusinessManager>Test</BusinessManager>
+    <Term>36</Term>
+
+    !--Customer tab Details-!
+    <CustomerAddress1>1275</CustomerAddress1>
+    <CustomerAddress2>Drummer Lane</CustomerAddress2>
+    <CustomerCity>Wayne</CustomerCity>
+    <CustomerZipCode>19087</CustomerZipCode>
+    <CustomerHomePhone>5152131234</CustomerHomePhone>
+    <CustomerWorkPhone>5152131235</CustomerWorkPhone>
+    <CustomerEmailAddress>test@test.com</CustomerEmailAddress>
+    <CoBuyerFirstName>Co-Buyer</CoBuyerFirstName>
+    <CoBuyerLastName>Test</CoBuyerLastName>
+    <CoBuyerCountry>United States</CoBuyerCountry>
+    <CoBuyerAddress1>1275</CoBuyerAddress1>
+    <CoBuyerAddress2>Drummers Lane</CoBuyerAddress2>
+    <CoBuyerCity>Wayne</CoBuyerCity>
+    <CoBuyerState>Pennsylvania</CoBuyerState>
+    <CoBuyerZipCode>19087</CoBuyerZipCode>
+    <CoBuyerBirthDate>09/24/2001</CoBuyerBirthDate>
+    <CoBuyerHomePhone>5152131236</CoBuyerHomePhone>
+
+    !--Vehicle tab Details-!
+    <Odometer>2000</Odometer>
+    <InServiceDate>09/24/2000</InServiceDate>
+    <OdometerForNewCars>20</OdometerForNewCars>
+
+    !--Lender Details tab -!
+    <LenderDetailsName>a</LenderDetailsName>
+    <LenderDetailsAddress1>1275 Drummers Lane</LenderDetailsAddress1>
+    <LenderDetailsAddress2> </LenderDetailsAddress2>
+    <LenderDetailsCity>Wayne</LenderDetailsCity>
+    <LenderDetailsState>Pennsylvania</LenderDetailsState>
+    <LenderDetailsZipCode>19087</LenderDetailsZipCode>
+    <LenderDetailsPhone>2155554545</LenderDetailsPhone>
+
+    <!--Deal Pull & Push-->
+    <IntegrationType>Pull &amp; Push</IntegrationType>
+    <FetchProvider>MaximTrak</FetchProvider>
+    <DMS>ADP</DMS>
+    <DealershipDMSId>3PAMAXIMTRAKDEV1</DealershipDMSId>
+    <DealNumber>36494</DealNumber>
+  </GenericData>
+
+  <CNAHDRating>
+    <TDID>1</TDID>
+    <UserName>anil.amiereddy@cigniti.com</UserName>
+    <Password>Cigniti#123</Password>
+    <Name>Anil amiereddy</Name>
+
+    <CustomerFirstName>CNA HD Rating</CustomerFirstName>
+    <CustomerLastName>Deal</CustomerLastName>
+    <CoBuyerFirstName>Co-BuyerFirstName</CoBuyerFirstName>
+    <CoBuyerLastName>Co-BuyerLastName</CoBuyerLastName>
+    <CustomerBirthDate>09/24/2000</CustomerBirthDate>
+    <SalePrice>25000</SalePrice>
+    <MSRP>30000</MSRP>
+    <VINS>
+      <CNAHDVIN>1HD1BFV1XHB030799</CNAHDVIN>
+    </VINS>
+    <SalesPerson>Test</SalesPerson>
+    <BusinessManager>Test</BusinessManager>
+    <Term>36</Term>
+
+    !--Customer tab Details-!
+    <CustomerAddress1>1275</CustomerAddress1>
+    <CustomerAddress2>Drummer Lane</CustomerAddress2>
+    <CustomerCity>Wayne</CustomerCity>
+    <CustomerZipCode>19087</CustomerZipCode>
+    <CustomerHomePhone>5152131234</CustomerHomePhone>
+    <CustomerWorkPhone>5152131235</CustomerWorkPhone>
+    <CustomerEmailAddress>test@test.com</CustomerEmailAddress>
+    <CoBuyerCountry>United States</CoBuyerCountry>
+    <CoBuyerAddress1>1275</CoBuyerAddress1>
+    <CoBuyerAddress2>Drummers Lane</CoBuyerAddress2>
+    <CoBuyerCity>Wayne</CoBuyerCity>
+    <CoBuyerState>Pennsylvania</CoBuyerState>
+    <CoBuyerZipCode>19087</CoBuyerZipCode>
+    <CoBuyerBirthDate>09/24/2001</CoBuyerBirthDate>
+    <CoBuyerHomePhone>5152131236</CoBuyerHomePhone>
+
+    !--Vehicle tab Details-!
+    <Odometer>100</Odometer>
+    <InServiceDate>03/03/2017</InServiceDate>
+    <Year>2017</Year>
+    <Make>hd</Make>
+    <Model>Bike</Model>
+
+    !--Lender Details tab -!
+    <LenderDetailsName>a</LenderDetailsName>
+    <LenderDetailsAddress1>1275 Drummers Lane</LenderDetailsAddress1>
+    <LenderDetailsAddress2> </LenderDetailsAddress2>
+    <LenderDetailsCity>Wayne</LenderDetailsCity>
+    <LenderDetailsState>Pennsylvania</LenderDetailsState>
+    <LenderDetailsZipCode>19087</LenderDetailsZipCode>
+    <LenderDetailsPhone>2155554545</LenderDetailsPhone>
+
+    <!--Deal Pull & Push-->
+    <IntegrationType>Pull &amp; Push</IntegrationType>
+    <FetchProvider>MaximTrak</FetchProvider>
+    <DMS>ADP</DMS>
+    <DealershipDMSId>3PAMAXIMTRAKDEV1</DealershipDMSId>
+    <DealNumber>36494</DealNumber>
+    
+  </CNAHDRating>
+</TestData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPages>
+  <Module name="SalesForce">
+    <Page name="Generic">
+      <Object name="LoadProcesserDone">
+        <Browser Value="chrome">
+          <FindBy>XPath</FindBy>
+          <Value>//div[contains(@class,'loadingHide')]</Value>
+        </Browser>
+      </Object>
+      <Object name="UserNameTextBox">
+        <Browser Value="chrome">
+          <FindBy>XPath</FindBy>
+          <Value>//input[@id='username']</Value>
+        </Browser>
+      </Object>
+      <Object name="PasswordTextBox">
+        <Browser Value="chrome">
+          <FindBy>XPath</FindBy>
+          <Value>//input[@id='password']</Value>
+        </Browser>
+      </Object>
+      <Object name="LoginButton">
+        <Browser Value="chrome">
+          <FindBy>XPath</FindBy>
+          <Value>//input[@id='Login']</Value>
+        </Browser>
+      </Object>
+      <Object name="UserIcon">
+        <Browser Value="chrome">
+          <FindBy>XPath</FindBy>
+          <Value>//header[@id='oneHeader']//div[@class='slds-global-header__item']//span[@class='uiImage']</Value>
+        </Browser>
+      </Object>
+      <Object name="LogOut">
+        <Browser Value="chrome">
+          <FindBy>XPath</FindBy>
+          <Value>//div[@class='userProfilePanel uiPanel--default uiPanel positioned south open active']//a[text()='Log Out']</Value>
+        </Browser>
+      </Object>
+      <Object name="HomeNavBar">
+        <Browser Value="chrome">
+          <FindBy>XPath</FindBy>
+          <Value>//one-app-nav-bar</Value>
+        </Browser>
+      </Object>
+    </Page>
+  </Module>
+</ApplicationPages>

@@ -1,0 +1,3 @@
+C:\MyWork\SolarWinds\Cigniti.Automation\Automation.Ui.TestSuiteRunner\obj\Debug\Automation.Ui.TestSuiteRunner.csprojAssemblyReference.cache
+C:\MyWork\SolarWinds\Cigniti.Automation\Automation.Ui.TestSuiteRunner\obj\Debug\Maxim.Automation.Ui.TestSuiteRunner.exe
+C:\MyWork\SolarWinds\Cigniti.Automation\Automation.Ui.TestSuiteRunner\obj\Debug\Maxim.Automation.Ui.TestSuiteRunner.pdb

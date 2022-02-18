@@ -1,0 +1,89 @@
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\DashboardRC.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\PageObjects.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\BCompare.exe
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Script.txt
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\ReportingClassess\Diffpdf.html
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\ReportingClassess\IterationTemplate.html
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\ReportingClassess\SummaryReport.html
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\checkImg.png
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\DefectID.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ETrakQA.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ETrakRC.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\MenuRC.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\TestcasesToRun.txt
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\VINNumbers.txt
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DetailReports\DailyLogSheet.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DetailReports\DailyLogSheetFull.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DetailReports\LenderAnalysis.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DetailReports\ProductDetailAnalysis.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DetailReports\Products Not Assigned.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DetailReports\Trade Information.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\SummaryReports\Cash Down.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\SummaryReports\FNI Performance Summary.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\SummaryReports\Focus Meeting .pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\SummaryReports\Heat Sheet.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\SummaryReports\ProductLineUnitSales.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\SummaryReports\ProductSummaryAnalysis.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\SummaryReports\Yield Report.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\SummaryReports\YearToDateReview.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DealershipReports\Dealership Comparison Legal.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DealershipReports\Dealership Comparison Letter.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DealershipReports\Dealership Composite Review Legal.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DealershipReports\Dealership Composite Review Letter.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DealershipReports\Goals vs Actual Legal.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\DealershipReports\Goals vs Actual Letter.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Finance Report By Producer FI.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Finance Report By Producer Sales Manager.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Finance Report By Producer Sales.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Focus Meeting by Personnel FI.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Focus Meeting by Personnel Sales Manager.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Focus Meeting by Personnel Sales.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Goals vs Actual FI.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Goals vs Actual Sales Manager.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Goals vs Actual Sales.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\PersonnelComparisonFI.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\PersonnelComparisonSales.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\PersonnelComparisonSalesManager.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\PersonnelSummaryFI.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\PersonnelSummarySales.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\PersonnelSummarySalesManager.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Finance Report By Department FI.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Finance Report By Department Sales Manager.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\TestData\ExpectedDashboardPDFs\PersonnelReports\Finance Report By Department Sales.pdf
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\ScriptExecutor.ps1
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.TestSuiteRunner.exe.config
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.TestSuiteRunner.exe
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.TestSuiteRunner.pdb
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Accelerators.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Repository.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Tests.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\WebDriver.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\itextsharp.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\OpenPop.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\WindowsInput.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\WebDriver.Support.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\WebDriverManager.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\AngleSharp.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Microsoft.Win32.Registry.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Accelerators.pdb
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Accelerators.dll.config
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Repository.pdb
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Repository.dll.config
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Tests.pdb
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Maxim.Automation.Ui.Tests.dll.config
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\WebDriver.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\itextsharp.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\WindowsInput.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\WebDriver.Support.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\AngleSharp.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\Microsoft.Win32.Registry.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\obj\Debug\Maxim.Automation.Ui.TestSuiteRunner.csprojAssemblyReference.cache
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\obj\Debug\Maxim.Automation.Ui.TestSuiteRunner.csproj.CopyComplete
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\obj\Debug\Maxim.Automation.Ui.TestSuiteRunner.exe
+D:\MyWork\Trunk\Maxim.Automation\Maxim.Automation\Maxim.Automation.Ui.TestSuiteRunner\obj\Debug\Maxim.Automation.Ui.TestSuiteRunner.pdb

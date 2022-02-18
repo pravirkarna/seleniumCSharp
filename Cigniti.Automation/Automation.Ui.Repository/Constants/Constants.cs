@@ -1,0 +1,90 @@
+﻿namespace Automation.Ui.Repository.Constants
+{
+    public static class Constants
+    {
+        public const string RegisteredAndApproved = "Registered and Approved";
+        public const string Voided = "Voided";
+        public const string Accepted = "ACCEPTED";
+        public const string Declined = "DECLINED";
+        public const string DeclinedProtectionOption = "DECLINED PROTECTION OPTIONS";
+        public const string AcceptedProtectionOption = "ACCEPTED PROTECTION OPTIONS";
+        public const string TermsMonthlyPayment = "Term Est Mthly Pmt APR%";
+        public const string NonAncillaryTemplate = "Non Ancillary";
+        public const string AutoXcelTemplate = "AutoXcel";
+        public const string CNATemplate = "CNA Template";
+        public const string PPMTemplate = "PPM";
+        public const string HppTemplate = "HPP";
+        public const string FinanceMenuTemplate = "Finance Menu";
+        public const string ToyotaStoneEagleTemplate = "Toyota (StoneEagle ARCH)";
+        public const string ArchproductTemplate = "Arch Product Test";
+        public const string NewFinanceMenuTemplate = "New Finance Menu";
+        public const string NationalSafeDriverTemplate = "Nation Safe Driver Template";
+        public const string PCMITemplate = "PCMI Template";
+        public const string NoBillsTemplate = "Nobilis";
+        public const string SWDSMultipleProviderTemplate = "SWDS Multiple Providers";
+        public const string StorneEagleTemplate = "SER Product Test";
+        public const string USWCTemplate = "USWC Template";
+        public const string PPMSelectRateAutoEnglish = "PPM Select AutoRate English";
+        public const string PPMAutoTest = "PPM Auto Test";
+        public const string FordTemplate = "Ford";
+        public const string SafeGuardTemplate = "SafeGuard3.1Template";
+
+        public const string FIManagerMikeJConohan = "Michael Conahan";
+        public const string FromDate = "03/01/2020";
+        public const string ToDate = "03/31/2020";
+        public const string QuickViewMonth = "March 2020";
+        public const string FileFormatPDF = "PDF";
+        public const string DealershipReportSettleRadioButton = "letter";
+        public const string DealershipReportLegalRadioButton = "legal";
+        public const string DealershipReportSaleRadioButton = "Sales";
+        public const string DealershipReportFIRadioButton = "F & I";
+        public const string DealershipReportSalesManager = "Sales Manager";
+        public const string DownloadPath = @"C:\automationdownload\";
+        public const string FileFormatExcel = "Excel";
+        public const string ExtensionExcel = ".xls";
+        public const string ExtentionPDF = ".pdf";
+        public const string Allocations = "All Locations";
+        public const int MinimumTermMonths = 36;
+        public const int MaximumTermMonths = 72;
+        public const string MobileNumberUnderElectronicContractRating = "515123432";
+        public const string ManagerNameUnderElectronicContracting = "Test";
+        public const string DailyEmailEventName = "DailyEvent_Automation";
+        public const string Daily = "Daily";
+        public const string MonthToDateEmailEventName = "MonthToDateEvent_Automation";
+        public const string EmailEventFrequencyMonthDate = "Month To Date";
+        public const string EmailRecipientId = "testautomation@maximtrak.com";
+        public const string DealPushTestDataFolderName = "DealPushXMLFiles";
+
+        public const string AutoExcelTemplate = "AutoXcel";
+        public const string PpmTemplate = "PPM";
+        public const string Name = "Name";
+        public const string EndPointDetails = "EndpointDetails";
+        public const string DealType = "DealType";
+        public const string CustomerFirstName = "CustomerFirstName";
+        public const string CustomerLastName = "CustomerLastName";
+        public const string CustomerBirthDate = "CustomerBirthDate";
+        public const string Msrp = "MSRP";
+        public const string TaxGroup = "TaxGroup";
+        public const string SalePrice = "SalePrice";
+        public const string ResidualAmount = "ResidualAmount";
+        public const string Rebate = "Rebate";
+        public const string DownPayment = "DownPayment";
+        public const string SalesPerson = "SalesPerson";
+        public const string BusinessManager = "BusinessManager";
+        public const string LeaseTerm = "LeaseTerm";
+        public const string PaymentFrequency = "PaymentFrequency";
+        public const string DMSPayment = "DMSPayment";
+        public const string OdometerForNewCars = "OdometerForNewCars";
+        public const string Products = "Products";
+        public const string Months = "Months";
+        public const string GrossPercentage = "GrossPercentage";
+        public const string Managers = "Managers";
+        public const string Percentage = "Percentage";
+        public const string Banks = "Banks";
+        public const string Financers = "Financers";
+        public const string Financer = "Financer";
+        public const string DealNumber = "DealNumber";
+        public const string MiddleName = "MiddleName";
+        public const string LastName = "LastName";
+    }
+}

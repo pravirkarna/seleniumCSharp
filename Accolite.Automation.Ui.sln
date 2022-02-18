@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Accolite.Automation", "Accolite.Automation", "{37D874F6-C6F3-47F4-B1AA-1EA138C1AFF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Ui.Accelerators", "Cigniti.Automation\Automation.Ui.Accelerators\Automation.Ui.Accelerators.csproj", "{783456C6-9E0F-407B-91C1-8535BA647C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Ui.Repository", "Cigniti.Automation\Automation.Ui.Repository\Automation.Ui.Repository.csproj", "{B17E019A-F2DF-42D4-B157-27E1A855F0F0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{783456C6-9E0F-407B-91C1-8535BA647C6C} = {783456C6-9E0F-407B-91C1-8535BA647C6C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Ui.Tests", "Cigniti.Automation\Automation.Ui.Tests\Automation.Ui.Tests.csproj", "{D48ACB0C-B59B-454F-A576-FF8F594653DB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B17E019A-F2DF-42D4-B157-27E1A855F0F0} = {B17E019A-F2DF-42D4-B157-27E1A855F0F0}
+		{783456C6-9E0F-407B-91C1-8535BA647C6C} = {783456C6-9E0F-407B-91C1-8535BA647C6C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Ui.TestSuiteExecutor", "Cigniti.Automation\Automation.Ui.TestSuiteExecutor\Automation.Ui.TestSuiteExecutor.csproj", "{B48A3A8E-E4AB-44D4-91BE-BC548FAE3A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783456C6-9E0F-407B-91C1-8535BA647C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783456C6-9E0F-407B-91C1-8535BA647C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783456C6-9E0F-407B-91C1-8535BA647C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783456C6-9E0F-407B-91C1-8535BA647C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17E019A-F2DF-42D4-B157-27E1A855F0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17E019A-F2DF-42D4-B157-27E1A855F0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17E019A-F2DF-42D4-B157-27E1A855F0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17E019A-F2DF-42D4-B157-27E1A855F0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48ACB0C-B59B-454F-A576-FF8F594653DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48ACB0C-B59B-454F-A576-FF8F594653DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48ACB0C-B59B-454F-A576-FF8F594653DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48ACB0C-B59B-454F-A576-FF8F594653DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48A3A8E-E4AB-44D4-91BE-BC548FAE3A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48A3A8E-E4AB-44D4-91BE-BC548FAE3A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48A3A8E-E4AB-44D4-91BE-BC548FAE3A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48A3A8E-E4AB-44D4-91BE-BC548FAE3A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{783456C6-9E0F-407B-91C1-8535BA647C6C} = {37D874F6-C6F3-47F4-B1AA-1EA138C1AFF2}
+		{B17E019A-F2DF-42D4-B157-27E1A855F0F0} = {37D874F6-C6F3-47F4-B1AA-1EA138C1AFF2}
+		{D48ACB0C-B59B-454F-A576-FF8F594653DB} = {37D874F6-C6F3-47F4-B1AA-1EA138C1AFF2}
+		{B48A3A8E-E4AB-44D4-91BE-BC548FAE3A83} = {37D874F6-C6F3-47F4-B1AA-1EA138C1AFF2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E8D42B-E78A-41AE-A019-C7C943A4340C}
+	EndGlobalSection
+EndGlobal

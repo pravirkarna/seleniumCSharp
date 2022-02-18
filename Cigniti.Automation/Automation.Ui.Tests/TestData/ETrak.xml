@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestData>
+  <GenericData>
+    <TDID>1</TDID>
+    <UserName>anil.amiereddy@cigniti.com</UserName>
+    <Password>Cigniti#123</Password>
+    <Name>Anil amiereddy</Name>
+    
+    <CustomerFirstName>Test</CustomerFirstName>
+    <CustomerLastName>Deal</CustomerLastName>
+    <CoBuyerFirstName>Co-BuyerFirstName</CoBuyerFirstName>
+    <CoBuyerLastName>Co-BuyerLastName</CoBuyerLastName>
+    <CustomerBirthDate>09/24/2000</CustomerBirthDate>
+    <VIN>SALWR2RE9KA855523</VIN>
+    <SalePrice>25000</SalePrice>
+    <MSRP>20000</MSRP>
+    <SalesPerson>some name</SalesPerson>
+    <BusinessManager>business manager</BusinessManager>
+    <Term>36</Term>
+
+    !--Customer tab Details-!
+    <CustomerAddress1>1275</CustomerAddress1>
+    <CustomerAddress2>Drummer Lane</CustomerAddress2>
+    <CustomerCity>Wayne</CustomerCity>
+    <CustomerZipCode>19087</CustomerZipCode>
+    <CustomerHomePhone>5152131234</CustomerHomePhone>
+    <CustomerWorkPhone>5152131235</CustomerWorkPhone>
+    <CustomerEmailAddress>test@test.com</CustomerEmailAddress>
+    <CoBuyerCountry>United States</CoBuyerCountry>
+    <CoBuyerAddress1>1275</CoBuyerAddress1>
+    <CoBuyerAddress2>Drummers Lane</CoBuyerAddress2>
+    <CoBuyerCity>Wayne</CoBuyerCity>
+    <CoBuyerState>Pennsylvania</CoBuyerState>
+    <CoBuyerZipCode>19087</CoBuyerZipCode>
+    <CoBuyerBirthDate>09/24/2001</CoBuyerBirthDate>
+    <CoBuyerHomePhone>5152131236</CoBuyerHomePhone>
+
+    !--Vehicle tab Details-!
+    <Odometer>2000</Odometer>
+    <InServiceDate>09/24/2019</InServiceDate>
+
+    !--Lender Details tab -!
+    <LenderDetailsAddress1>681</LenderDetailsAddress1>
+    <LenderDetailsAddress2>Shannondel blvd</LenderDetailsAddress2>
+    <LenderDetailsCity>Wayne</LenderDetailsCity>
+    <LenderDetailsState>Pennsylvania</LenderDetailsState>
+    <LenderDetailsZipCode>19403</LenderDetailsZipCode>
+    <LenderDetailsPhone>5152131241</LenderDetailsPhone>
+
+  </GenericData>
+</TestData>
